@@ -21,21 +21,23 @@ header {
 nav {
   display: flex;
   justify-content: center;
-  gap: 20px;
-  padding: 15px;
+  gap: 30px;
+  padding: 18px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
+  font-size: 0.95em;
 }
 
 nav a {
   text-decoration: none;
-  color: #0066cc;
-  font-weight: bold;
+  color: #004a99;
+  letter-spacing: 0.05em;
 }
 
 nav a:hover {
   text-decoration: underline;
 }
+
 
 /* Main content */
 main {
