@@ -9,13 +9,15 @@ body {
 /* Header */
 header {
   text-align: center;
-  padding: 40px 20px 20px;
+  padding: 60px 20px 30px;
 }
 
 .subtitle {
   color: #555;
   font-size: 1.1em;
+  letter-spacing: 0.05em;
 }
+
 
 /* Navigation */
 nav {
@@ -42,13 +44,15 @@ nav a:hover {
 /* Main content */
 main {
   max-width: 900px;
-  margin: 40px auto;
-  padding: 0 20px;
+  margin: 60px auto;
+  padding: 0 24px;
 }
 
+
 section {
-  margin-bottom: 50px;
+  margin-bottom: 70px;
 }
+
 h1 {
   font-size: 2.5em;
   margin-bottom: 10px;
